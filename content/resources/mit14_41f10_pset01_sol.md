@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to
   classic negative externality.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-41-public-finance-and-public-policy-fall-2010/aed47b2ccb2a42d16df7be83dafe1336_MIT14_41F10_pset01_sol.pdf
+file: /media/courses/14-41-public-finance-and-public-policy-fall-2010/aed47b2ccb2a42d16df7be83dafe1336_MIT14_41F10_pset01_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: MIT14_41F10_pset01_sol.pdf
 uid: aed47b2c-cb2a-42d1-6df7-be83dafe1336
