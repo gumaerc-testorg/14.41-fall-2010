@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 92131f5e-bdba-6bbf-f9ed-96a5edede73a
 resourcetype: Document
 title: MIT14_41F10_exam2010_sol.pdf
 uid: 9ea11c10-8011-5450-87ce-5aa5e5c284ff

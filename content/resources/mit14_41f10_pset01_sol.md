@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 471fe7eb-397f-55dd-b657-a24eed413248
 resourcetype: Document
 title: MIT14_41F10_pset01_sol.pdf
 uid: aed47b2c-cb2a-42d1-6df7-be83dafe1336
