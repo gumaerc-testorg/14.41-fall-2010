@@ -5,6 +5,7 @@ file: /courses/14-41-public-finance-and-public-policy-fall-2010/622329ef6ebacb03
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT14_41F10_exam2009_sol.pdf
 uid: 622329ef-6eba-cb03-de57-37a64543c5fb
 ---
 This resource contains information related to incentives and public solutions.
-

@@ -6,6 +6,7 @@ file: /courses/14-41-public-finance-and-public-policy-fall-2010/3749699d28b50ffd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT14_41F10_pset05_sol.pdf
 uid: 3749699d-28b5-0ffd-fdb7-4d1b33408fe7
 ---
 This resource contains solutions for the problem statements related to marginal rate of substitution.
-
