@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to
   social benefits and costs.
-file: /ol-ocw-studio-app/courses/14-41-public-finance-and-public-policy-fall-2010/f3dfd73ed3e22787dec805ed6766adec_MIT14_41F10_pset04_sol.pdf
+file: /courses/14-41-public-finance-and-public-policy-fall-2010/f3dfd73ed3e22787dec805ed6766adec_MIT14_41F10_pset04_sol.pdf
 file_size: 188971
 file_type: application/pdf
 learning_resource_types:
