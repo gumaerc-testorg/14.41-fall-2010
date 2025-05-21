@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to
   marginal rate of substitution.
-file: /ol-ocw-studio-app/courses/14-41-public-finance-and-public-policy-fall-2010/3749699d28b50ffdfdb74d1b33408fe7_MIT14_41F10_pset05_sol.pdf
+file: /courses/14-41-public-finance-and-public-policy-fall-2010/3749699d28b50ffdfdb74d1b33408fe7_MIT14_41F10_pset05_sol.pdf
 file_size: 128561
 file_type: application/pdf
 learning_resource_types:

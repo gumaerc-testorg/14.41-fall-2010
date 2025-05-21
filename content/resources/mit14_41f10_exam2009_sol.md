@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to incentives and public solutions.
-file: /ol-ocw-studio-app/courses/14-41-public-finance-and-public-policy-fall-2010/622329ef6ebacb03de5737a64543c5fb_MIT14_41F10_exam2009_sol.pdf
+file: /courses/14-41-public-finance-and-public-policy-fall-2010/622329ef6ebacb03de5737a64543c5fb_MIT14_41F10_exam2009_sol.pdf
 file_size: 1091039
 file_type: application/pdf
 learning_resource_types:
